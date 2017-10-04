@@ -2526,6 +2526,11 @@ i.icon-lg {
   width: 250px;
 }
 
+.image-carousel .item img {
+  height: 200px;
+  width: 250px;
+}
+
 /* Single portfolio */
 .single-portfolio-area .single-portfolio-image img {
   width: 100%;

@@ -297,7 +297,7 @@ a:hover{
   border: 1px solid #9C3;
 }
 #color-client-scroller .client-item-wrapper {
-  background: #9C3 none repeat scroll 0 0;
+  /*background: #9C3 none repeat scroll 0 0;*/
 }
 #clients .client-item-wrapper:hover {
     border-color: #9C3;
